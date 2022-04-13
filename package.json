@@ -13,6 +13,7 @@
   "author": "Britoshky",
   "license": "ISC",
   "dependencies": {
+    "@babel/runtime": "^7.17.9",
     "@handlebars/allow-prototype-access": "^1.0.5",
     "dotenv": "^16.0.0",
     "express": "^4.17.3",
